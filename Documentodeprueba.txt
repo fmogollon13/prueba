@@ -35,5 +35,5 @@ Esta es la primera prueba
 	 
 	 git remote set-url origin git: https://github.com/fmogollon13/prueba.git
 	 
-	 git clone https://github.com/fmogollon13/prueba2.git para clonar (descargar) un repositorio ya existente
+	 git clone https://github.com/fmogollon13/prueba2.git para clonar (descargar) un repositorio ya existente al repositorio local.
 
