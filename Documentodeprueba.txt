@@ -31,7 +31,9 @@ Esta es la primera prueba
 	 
 	 git credential-manager uninstall
 	 
-	 git push -u origin master
+	 git push -u origin master 'para subir del directorio local al repositorio.
+	 
+	 git pull origin master 'para descargar del repositorio al directorio local.
 	 
 	 git remote set-url origin git: https://github.com/fmogollon13/prueba.git
 	 
