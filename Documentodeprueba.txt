@@ -18,22 +18,23 @@ Esta es la primera prueba
 	
 	Comandos:
 	
-	 git config --global user.name fmogollon13 : configura el nombre del usuario 
+	 git config --global user.name fmogollon13 	'configura el nombre del usuario 
 	 
 	 git remote add origin https://github.com/fmogollon13/prueba.git
 	 
 	 git status
 	 
      git add Documentodeprueba.txt
-	 git add . --- todos los archivos que estén en la carpeta
 	 
-	 git commit -m 'Mi primer documento' Sube los cambios y le agrega un mensaje
+	 git add . 									'todos los archivos que estén en la carpeta
 	 
-	 git credential-manager uninstall
+	 git commit -m 'Mi primer documento' 		'Sube los cambios y le agrega un mensaje
 	 
-	 git push -u origin master 'para subir del directorio local al repositorio.
+	 git credential-manager uninstall			'remueve un usuario para poder asignar el remote add origin a otro
 	 
-	 git pull origin master 'para descargar del repositorio al directorio local.
+	 git push -u origin master 					'para subir del directorio local al repositorio.
+	 
+	 git pull origin master 					'para descargar del repositorio al directorio local.
 	 
 	 git remote set-url origin git: https://github.com/fmogollon13/prueba.git
 	 
