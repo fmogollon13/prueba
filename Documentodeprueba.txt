@@ -1,4 +1,4 @@
-Esta es lka primera prueba
+Esta es la primera prueba
 
 . SVN
   GIT
@@ -29,7 +29,7 @@ Esta es lka primera prueba
 	 
 	 git commit -m 'Mi primer documento' Sube los cambios y le agrega un mensaje
 	 
-	 git credential-manager unistall
+	 git credential-manager uninstall
 	 
 	 git push -u origin master
 	 
