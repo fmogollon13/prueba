@@ -1,0 +1,37 @@
+Esta es lka primera prueba
+
+. SVN
+  GIT
+	- github
+	- gitlab - se puede crear su propio repositorio
+	- bitbucker
+
+	Devops
+	
+	Integración continua.
+	
+	Github
+	  - En windows Se instala gitbash para tener una consola local.
+	  - también se puede descargar en https://gitforwindows.org
+	  
+	Tipos
+	
+	Comandos:
+	
+	 git config --global user.name fmogollon13 : configura el nombre del usuario 
+	 
+	 git remote add origin https://github.com/fmogollon13/prueba.git
+	 
+	 git status
+	 
+     git add Documentodeprueba.txt
+	 git add . --- todos los archivos que estén en la carpeta
+	 
+	 git commit -m 'Mi primer documento' Sube los cambios y le agrega un mensaje
+	 
+	 git credential-manager unistall
+	 
+	 git push -u origin master
+	 
+	 git remote set-url origin git: https://github.com/fmogollon13/prueba.git
+
